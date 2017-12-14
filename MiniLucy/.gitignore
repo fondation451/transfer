@@ -1,0 +1,9 @@
+# Compiled files
+*.cmi
+*.cmo
+*.automaton
+*.conflicts
+minilucy
+
+# Vim files
+*.swp
